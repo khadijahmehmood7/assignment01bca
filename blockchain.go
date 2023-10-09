@@ -1,4 +1,4 @@
-package trying
+package assignment01bca
 
 import (
 	"crypto/sha256" // Importing the sha256 library for hashing
